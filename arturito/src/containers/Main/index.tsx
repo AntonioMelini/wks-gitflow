@@ -34,7 +34,7 @@ const MainContainer = () => {
             <p>
               Agregar tabla con las starships sacadas de la API. Mostrar para
               cada starship: name, model, manufacturer, passengers, cantidad de
-              films. Codear en un componente aparte tal como {'<Planets>'}.
+              films. Codear en un componente aparte tal como dale papapapapappapapapa {'<Planets>'}.
             </p>
             <p>
               <a href="https://swapi.it/documentation#starships">
